@@ -5,6 +5,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-fortunato-49594b328/)
 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JitsuShinka)
+
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=JitsuShinka&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso:
@@ -15,4 +17,19 @@
     <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+</div><br>
+
+### Sobre mim:
+
+Sou um Jovem com interesse em entrar no mercado de trabalho, passo um bom tempo em frente a tela do computador vendo varias coisas em relação a tecnologia e programação
+
+Cursando Engenharia de SoftWare na Faculdade Uniceplac<br>
+
+Tenho grande interesse de entrar no mercado de trabalho no ramo da programação e grande foco é me tornar um futuro desenvolvedor de jogos<br>
+
+Experiencia com trabalho em equipe, familiaridade com Font-End<br>
+
+### Contato:
+
+E-mail para entrar em contato:<br>
+<img aling="center" alt="e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br>Accontlevelup@gmail.com
