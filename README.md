@@ -21,16 +21,40 @@
     <img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
+
 ---
 ### Sobre mim:
 
-Sou um Jovem com interesse em entrar no mercado de trabalho, passo um bom tempo em frente a tela do computador vendo varias coisas em relação a tecnologia e programação, sou fácil de conversar, competente e conheço bem meus limites.
+19 anos.
 
-Cursando Engenharia de SoftWare na Faculdade Uniceplac.<br>
+Cursando Engenharia de SoftWare na Faculdade Uniceplac.
 
-Tenho grande interesse de entrar no mercado de trabalho no ramo da programação e objetivo é me tornar um futuro desenvolvedor de jogos, não tenho muito conhecimento e experiencia, mas aprender nunca é demais.<br>
+Residente  Gama/DF.
 
-Experiencia com trabalho em equipe por meio de atividades da faculdade, familiaridade com Font-End.<br>
+<details>
+<summary>Saiba mais Sobre mim</summary></br>
+
+---
+
+### Objetivo
+
+Ingressar no mercado de trabalho no ramo da programação.<br>
+
+Adiquirir experiência na area de programação. </br>
+
+### Pontos Fortes
+
+* paciente
+* compromissado
+* de facíl conversa
+* proativo
+
+### Experiencia
+
+Experiencia com trabalho em equipe por meio de atividades da faculdade, familiaridade com Font-End.</br>
+
+</details>
+
 ---
 ### Contato:
 
