@@ -1,3 +1,4 @@
+<img aling="center" alt="Gif-programacao" src="https://i.pinimg.com/originals/4e/af/b9/4eafb9d14230b57193f327316c0760d1.gif">
 
 ### Olá, eu sou o Alexandre Fortunato
 
